@@ -1,6 +1,6 @@
 from grid_ob import Grid
-from PIL import Image
-
+# from PIL import Image
+# para que mesmo?
 
 def draw(row, col, color='black'):
     # tamanhoem px de uma celula

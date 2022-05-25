@@ -1,5 +1,4 @@
 import random
-import django
 
 
 class Grid:
